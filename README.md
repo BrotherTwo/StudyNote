@@ -60,7 +60,7 @@ python3.x中没有长整型
 ##### 布尔型（bool）
 ture　false
 
-<a name="szxy"></a>
+<a name="szys"></a>
 ## 数字运算
 除号（  /  、//、%）
 
